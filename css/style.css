@@ -430,6 +430,14 @@ button {
     height: 40px;
 }
 
+.cart-clear{
+    background-color: #a72828;
+    border-color: #a72828;
+    display: block;
+    margin-left: auto;
+    height: 40px;
+}
+
 
 .mw-160 {
     max-width: 160px;
